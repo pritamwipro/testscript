@@ -5,3 +5,6 @@ if ARGV.length == 1
 else
 	puts "Please enter parameter"
 end
+
+cd ARGV[0]
+# git clone "https://gitlab.tools.btcsp.co.uk/tv/inlife_puppet.git"
